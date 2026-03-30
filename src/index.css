@@ -1,0 +1,15 @@
+.board-row {
+  width: 150px;
+  height: 50px;
+}
+.square {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  border: 1px solid black;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 0px;
+  margin: 0px;
+  vertical-align: top;
+}
